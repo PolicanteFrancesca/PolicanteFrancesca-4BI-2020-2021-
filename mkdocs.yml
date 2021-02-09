@@ -1,1 +1,8 @@
+site_name: Policante_Francesca
 
+nav:
+
+  - 'Test': 'test.txt'
+
+theme:
+  name : readthedocs
